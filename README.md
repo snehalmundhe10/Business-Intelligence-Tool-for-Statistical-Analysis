@@ -36,3 +36,6 @@ After creating records of subsidaries and their admin information, loging  in by
 
 After clicking on get Sales report-the report is imported from a text file-the frame looks as follows:
 ![alt text](https://github.com/snehalmundhe10/Business-Intelligence-Tool-for-Statistical-Analysis/blob/master/images/img3.PNG "report2")
+
+Implemented the Mouse Listener events on the rows of the table, after clicking on each row,the fields under 'compare profits' get automatically populated because of implementation of mouse listener-mouse click event-
+![alt text](https://github.com/snehalmundhe10/Business-Intelligence-Tool-for-Statistical-Analysis/blob/master/images/img4.PNG "report3")
