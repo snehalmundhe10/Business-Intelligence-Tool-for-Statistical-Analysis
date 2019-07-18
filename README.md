@@ -21,4 +21,4 @@ To build a statistical and analytical tool for data analysis of enterprise for e
 
 ### Project Design
 The model is developed using a modular approach with the Java Swing framework. The
-modular components are to be implemented with the platform called NetBeans IDE.
+modular components are implemented with the platform called NetBeans IDE.
