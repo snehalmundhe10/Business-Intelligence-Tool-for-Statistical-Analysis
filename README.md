@@ -43,5 +43,5 @@ Implemented the Mouse Listener events on the rows of the table, after clicking o
 ![alt text](https://github.com/snehalmundhe10/Business-Intelligence-Tool-for-Statistical-Analysis/blob/master/images/img4.PNG "report3")
 
 
-Integrated JFreeChart to show histogram, therefore after clicking 'show histogram' the frame looks like as follows:
+Integrated JFreeChart API to show histogram, therefore after clicking 'show histogram' the frame looks like as follows:
 ![alt text](https://github.com/snehalmundhe10/Business-Intelligence-Tool-for-Statistical-Analysis/blob/master/images/img5.PNG "report4")
