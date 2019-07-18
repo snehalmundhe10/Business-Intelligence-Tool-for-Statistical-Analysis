@@ -20,5 +20,5 @@ that would help organizations for excellent decision making.
 To build a statistical and analytical tool for data analysis of enterprise for effective decision making.
 
 ### Project Design
-The model will be developed using a modular approach with the Java Swing framework. The
+The model is developed using a modular approach with the Java Swing framework. The
 modular components are to be implemented with the platform called NetBeans IDE.
