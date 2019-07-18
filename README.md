@@ -21,7 +21,11 @@ To build a statistical and analytical tool for data analysis of enterprise for e
 
 ### Entity-Relationship Diagram
 ![alt text](https://github.com/snehalmundhe10/Business-Intelligence-Tool-for-Statistical-Analysis/blob/master/images/erd.png "erd")
+
 ### Project Design
 The model is developed using a modular approach with the Java Swing framework. The
 modular components are implemented with the platform called NetBeans IDE.
 
+### Snapshots of the application
+
+![alt text](https://github.com/snehalmundhe10/Business-Intelligence-Tool-for-Statistical-Analysis/blob/master/images/img1.PNG "home")
