@@ -30,6 +30,6 @@ modular components are implemented with the platform called NetBeans IDE.
 
 ![alt text](https://github.com/snehalmundhe10/Business-Intelligence-Tool-for-Statistical-Analysis/blob/master/images/img1.PNG "home")
 
-After creating records of subsidaries and admins of their accounts, loging by one of the employee of one department
+After creating records of subsidaries and their admin information, loging  in by one of the employees of a department for generating report, the frame looks like-
 
-![alt text](https://github.com/snehalmundhe10/Business-Intelligence-Tool-for-Statistical-Analysis/blob/master/images/img1.PNG "home")
+![alt text](https://github.com/snehalmundhe10/Business-Intelligence-Tool-for-Statistical-Analysis/blob/master/images/img2.PNG "report")
