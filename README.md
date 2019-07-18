@@ -32,4 +32,4 @@ modular components are implemented with the platform called NetBeans IDE.
 
 After creating records of subsidaries and admins of their accounts, loging by one of the employee of one department
 
-![alt text](https://github.com/snehalmundhe10/Business-Intelligence-Tool-for-Statistical-Analysis/blob/master/images/img1.PNG "home")
+![alt text](https://github.com/snehalmundhe10/Business-Intelligence-Tool-for-Statistical-Analysis/blob/master/images/img2.PNG "report")
