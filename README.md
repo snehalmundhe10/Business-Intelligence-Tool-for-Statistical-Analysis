@@ -33,3 +33,6 @@ modular components are implemented with the platform called NetBeans IDE.
 After creating records of subsidaries and their admin information, loging  in by one of the employees of a department for generating report, the frame looks like-
 
 ![alt text](https://github.com/snehalmundhe10/Business-Intelligence-Tool-for-Statistical-Analysis/blob/master/images/img2.PNG "report")
+
+After clicking on get Sales report-the report is imported from a text file-the frame looks as follows:
+![alt text](https://github.com/snehalmundhe10/Business-Intelligence-Tool-for-Statistical-Analysis/blob/master/images/img3.PNG "report2")
