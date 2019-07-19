@@ -47,4 +47,5 @@ Integrated JFreeChart API to show histogram, therefore after clicking 'show hist
 ![alt text](https://github.com/snehalmundhe10/Business-Intelligence-Tool-for-Statistical-Analysis/blob/master/images/img5.PNG "report4")
 
 ![alt text](https://github.com/snehalmundhe10/Business-Intelligence-Tool-for-Statistical-Analysis/blob/master/images/img6.PNG "report5")
-
+Compared Fertilizers,Chemicals and Biofuels- implemented Mouse Click Event-Integrated JFreeChart and compared and generated pie chart 
+![alt text](https://github.com/snehalmundhe10/Business-Intelligence-Tool-for-Statistical-Analysis/blob/master/images/img7.PNG "report6")
